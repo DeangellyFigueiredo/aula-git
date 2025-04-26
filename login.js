@@ -1,3 +1,2 @@
-//funcao do login
-
-//funcao de logout
+// FUNCAO DE LOGIN (USER,SENHA)
+// FAZ O LOGIN DO USUARIO E REDIRECIONA PARA A PAGINA DE HOME
